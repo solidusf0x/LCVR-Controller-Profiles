@@ -1,6 +1,6 @@
 # LCVR Controller Profiles
 
-This repo contains a list of input binding overrides that can be used to make different kind of controllers work correctly with the [Lethal Company VR mod](https://github.com/DaXcess/LCVR)
+This repo contains a list of input binding overrides that can be used to make different kind of controllers work correctly with the [Lethal Company VR mod](https://github.com/DaXcess/LCVR).
 
 # Profiles
 
@@ -15,8 +15,9 @@ This repo contains a list of input binding overrides that can be used to make di
 You can add a custom profile by either creating JSON files manually, or using the Unity Editor to create Input Action Assets, which you will have to export to a JSON file.
 
 **Handy dandy resources**:
-[Unity XR Input](https://docs.unity3d.com/Manual/xr_input.html)
-[Input Common Usages](https://docs.unity3d.com/ScriptReference/XR.CommonUsages.html)
+
+- [Unity XR Input](https://docs.unity3d.com/Manual/xr_input.html)
+- [Input Common Usages](https://docs.unity3d.com/ScriptReference/XR.CommonUsages.html)
 
 ## Writing JSON manually
 
