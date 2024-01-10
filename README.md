@@ -8,6 +8,10 @@ This repo contains a list of input binding overrides that can be used to make di
 | --------- | -------------------------------------- | ----------------------------------------------------------------------------- |
 | `default` | [@DaXcess](https://github.com/DaXcess) | These are the default controller bindings that are included with the LCVR mod |
 
+# Applying a custom profile
+
+In the mod's configuration, set the `ControllerBindingsOverrideProfile` option to the name of the profile binding you would like to use. This does however require an active internet connection, since these profiles are downloaded directly from this GitHub repository and will allow the use of new profiles without having to update the mod.
+
 # Writing a custom profile
 
 > This section is not yet finished
@@ -23,7 +27,7 @@ You can add a custom profile by either creating JSON files manually, or using th
 
 It is recommended to use the `default` profile as a baseline, which already contains valid input bindings in a valid format.
 
-To change a binding: edit it's `path` key and change it to the binding of your choosing. If you know enough about Unity's Input System, you can also edit the `processors` key or use composites for more complex input binding (e.g. adding a binding that requires two inputs). Otherwise it is recommended to create these using a Input Action Asset inside of the Unity Editor.
+To change a binding: edit it's `path` key and change it to the binding of your choosing. If you know enough about Unity's Input System, you can also edit the `processors` key or use composites for more complex input binding (e.g. adding a binding that requires two inputs). Otherwise it is recommended to create these using an Input Action Asset inside of the Unity Editor.
 
 ## Using the Unity Editor
 
