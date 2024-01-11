@@ -8,6 +8,8 @@ This repo contains a list of input binding overrides that can be used to make di
 | ----------------- | -------------------------------------- | --------------------------------------------------------------------------------- |
 | `default`         | [@DaXcess](https://github.com/DaXcess) | These are the default controller bindings that are included with the LCVR mod     |
 | `leftgrip_sprint` | @dzgreka                               | This derivative of the default profile swaps the secondary use, and sprint button |
+| `WMR Controllers` | @CH3k                             | This just adds support for WMR remotes, jump is bound to right touchpad, Drop Item is bound to left touchpad |
+
 
 # Applying a custom profile
 
