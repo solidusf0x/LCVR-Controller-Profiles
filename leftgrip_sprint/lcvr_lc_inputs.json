@@ -372,7 +372,7 @@
           "isPartOfComposite": false
         },
         {
-          "name": "Secondary Use: Left Grip Button",
+          "name": "Secondary Use: Left Joystick Click",
           "id": "98208326-0c62-44ca-8a9c-7d2040e8ef05",
           "path": "<XRController>{LeftHand}/{Primary2DAxisClick}",
           "interactions": "",
