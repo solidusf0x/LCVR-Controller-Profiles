@@ -4,6 +4,8 @@ This repo contains a list of input binding overrides that can be used to make di
 
 # Profiles
 
+> These controller profiles are not provided by the developer of LCVR (except for the `default` profile), so it is not guaranteed that they work properly or for every user
+
 | Name              | Author                                 | Comment                                                                                                      |
 | ----------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | `default`         | [@DaXcess](https://github.com/DaXcess) | These are the default controller bindings that are included with the LCVR mod                                |
