@@ -306,9 +306,9 @@
           "isPartOfComposite": false
         },
         {
-          "name": "Crouch: Left Touchpad Click",
+          "name": "Crouch: Left Touchpad Touch",
           "id": "e3c54809-7fb3-4bc6-9aed-40a36b018c06",
-          "path": "<XRController>{LeftHand}/touchpadClicked",
+          "path": "<XRController>{LeftHand}/touchpadTouched",
           "interactions": "",
           "processors": "",
           "groups": "",
@@ -372,9 +372,9 @@
           "isPartOfComposite": false
         },
         {
-          "name": "Secondary Use: Left Joystick Click",
+          "name": "Secondary Use: Right Touchpad Touch",
           "id": "98208326-0c62-44ca-8a9c-7d2040e8ef05",
-          "path": "<XRController>{LeftHand}/{Primary2DAxisClick}",
+          "path": "<XRController>{RightHand}/touchpadTouched",
           "interactions": "",
           "processors": "",
           "groups": "",
