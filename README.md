@@ -6,11 +6,12 @@ This repo contains a list of input binding overrides that can be used to make di
 
 > These controller profiles are not provided by the developer of LCVR (except for the `default` profile), so it is not guaranteed that they work properly or for every user
 
-| Name              | Author                                 | Comment                                                                                                      |
-| ----------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| `default`         | [@DaXcess](https://github.com/DaXcess) | These are the default controller bindings that are included with the LCVR mod                                |
-| `leftgrip_sprint` | @dzgreka                               | This derivative of the default profile swaps the secondary use, and sprint button                            |
-| `wmr`             | @CH3k                                  | This just adds support for WMR remotes, jump is bound to right touchpad, Drop Item is bound to left touchpad |
+| Name              | Author                                   | Comment                                                                                                              |
+| ----------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `default`         | [@DaXcess](https://github.com/DaXcess)   | These are the default controller bindings that are included with the LCVR mod                                        |
+| `leftgrip_sprint` | @dzgreka                                 | This derivative of the default profile swaps the secondary use, and sprint button                                    |
+| `wmr`             | @CH3k                                    | This just adds support for WMR remotes, jump is bound to right touchpad, Drop Item is bound to left touchpad         |
+| `index_touchpads` | [@Bontebok](https://github.com/Bontebok) | For Index controllers, prevents joystick damage. Sprint left grip, crouch left touchpad, secondary right touchpad.   |
 
 # Applying a custom profile
 
