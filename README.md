@@ -12,6 +12,7 @@ This repo contains a list of input binding overrides that can be used to make di
 | `leftgrip_sprint` | @dzgreka                                 | This derivative of the default profile swaps the secondary use, and sprint button                                    |
 | `wmr`             | @CH3k                                    | This just adds support for WMR remotes, jump is bound to right touchpad, Drop Item is bound to left touchpad         |
 | `index_touchpads` | [@Bontebok](https://github.com/Bontebok) | For Index controllers, prevents joystick damage. Sprint left grip, crouch left touchpad, secondary right touchpad.   |
+| `vive_controller` | @KYRIS0                                  | This adds support for vive controller, jump is bound to left trigger                                            |
 
 # Applying a custom profile
 
