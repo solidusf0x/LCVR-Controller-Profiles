@@ -262,9 +262,9 @@
           "isPartOfComposite": false
         },
         {
-          "name": "Jump: Left Trigger",
+          "name": "Jump: Left Trigger Button",
           "id": "29d0e539-abdc-46ae-8dff-27436261f379",
-          "path": "<XRController>{LeftHand}/trigger",
+          "path": "<XRController>{LeftHand}/triggerButton",
           "interactions": "",
           "processors": "",
           "groups": "",
