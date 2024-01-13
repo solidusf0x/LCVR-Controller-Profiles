@@ -329,9 +329,9 @@
           "isPartOfComposite": false
         },
         {
-          "name": "Activate Item: Right Trigger",
+          "name": "Activate Item: Grip Button",
           "id": "15a2f703-29f3-46b5-a1d0-508a159aad30",
-          "path": "<XRController>{RightHand}/trigger",
+          "path": "<XRController>{RightHand}/gripButton",
           "interactions": "",
           "processors": "",
           "groups": "",
@@ -340,9 +340,9 @@
           "isPartOfComposite": false
         },
         {
-          "name": "Discard: Right Primary Button",
+          "name": "Discard: trigger",
           "id": "99c75319-4397-4e28-9316-fedfd1c63c1c",
-          "path": "<XRController>{RightHand}/primaryButton",
+          "path": "<XRController>{RightHand}/trigger",
           "interactions": "",
           "processors": "",
           "groups": "",
