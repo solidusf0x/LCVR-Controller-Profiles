@@ -362,9 +362,9 @@
           "isPartOfComposite": false
         },
         {
-          "name": "Ping Scan: Left Trigger Button",
+          "name": "Ping Scan: Left Grip Button",
           "id": "82b7c0d0-3d7c-4b80-acf2-17e66cf5b3ac",
-          "path": "<XRController>{LeftHand}/trigger",
+          "path": "<XRController>{LeftHand}/gripButton",
           "interactions": "",
           "processors": "",
           "groups": "",
