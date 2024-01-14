@@ -13,6 +13,7 @@ This repo contains a list of input binding overrides that can be used to make di
 | `wmr`             | @CH3k                                    | This just adds support for WMR remotes, jump is bound to right touchpad, Drop Item is bound to left touchpad         |
 | `index_touchpads` | [@Bontebok](https://github.com/Bontebok) | For Index controllers, prevents joystick damage. Sprint left grip, crouch left touchpad, secondary right touchpad.   |
 | `htc_vive`        | @KYRIS0                                  | This adds support for vive controller, jump is bound to left trigger                                                 |
+| `index_knuckles`  | @solidusf0x                              | right controller A is crouch B is jump left controller touchpad is menu B is sprint                                  |
 
 # Applying a custom profile
 
